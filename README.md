@@ -1,6 +1,6 @@
-# r_studio_themes
+# Oppenheimer r_studio_theme
 
-Barbie inspired RStudio themes for all the hyper-femmes out there.
+Oppenheimer inspired RStudio themes for all the hyper-femmes out there.
 
 To add these themes to your RStudio, follow the steps outlined below. 
 
